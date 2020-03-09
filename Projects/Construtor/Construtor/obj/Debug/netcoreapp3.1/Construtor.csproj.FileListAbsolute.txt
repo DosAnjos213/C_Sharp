@@ -1,0 +1,10 @@
+/Users/osf/Projects/Construtor/Construtor/bin/Debug/netcoreapp3.1/Construtor.deps.json
+/Users/osf/Projects/Construtor/Construtor/bin/Debug/netcoreapp3.1/Construtor.runtimeconfig.json
+/Users/osf/Projects/Construtor/Construtor/bin/Debug/netcoreapp3.1/Construtor.runtimeconfig.dev.json
+/Users/osf/Projects/Construtor/Construtor/bin/Debug/netcoreapp3.1/Construtor.dll
+/Users/osf/Projects/Construtor/Construtor/bin/Debug/netcoreapp3.1/Construtor.pdb
+/Users/osf/Projects/Construtor/Construtor/obj/Debug/netcoreapp3.1/Construtor.csprojAssemblyReference.cache
+/Users/osf/Projects/Construtor/Construtor/obj/Debug/netcoreapp3.1/Construtor.AssemblyInfoInputs.cache
+/Users/osf/Projects/Construtor/Construtor/obj/Debug/netcoreapp3.1/Construtor.AssemblyInfo.cs
+/Users/osf/Projects/Construtor/Construtor/obj/Debug/netcoreapp3.1/Construtor.dll
+/Users/osf/Projects/Construtor/Construtor/obj/Debug/netcoreapp3.1/Construtor.pdb

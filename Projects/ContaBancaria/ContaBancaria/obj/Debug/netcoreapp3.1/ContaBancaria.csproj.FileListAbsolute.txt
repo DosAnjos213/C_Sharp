@@ -1,0 +1,10 @@
+/Users/osf/Projects/ContaBancaria/ContaBancaria/obj/Debug/netcoreapp3.1/ContaBancaria.csprojAssemblyReference.cache
+/Users/osf/Projects/ContaBancaria/ContaBancaria/obj/Debug/netcoreapp3.1/ContaBancaria.AssemblyInfoInputs.cache
+/Users/osf/Projects/ContaBancaria/ContaBancaria/obj/Debug/netcoreapp3.1/ContaBancaria.AssemblyInfo.cs
+/Users/osf/Projects/ContaBancaria/ContaBancaria/bin/Debug/netcoreapp3.1/ContaBancaria.deps.json
+/Users/osf/Projects/ContaBancaria/ContaBancaria/bin/Debug/netcoreapp3.1/ContaBancaria.runtimeconfig.json
+/Users/osf/Projects/ContaBancaria/ContaBancaria/bin/Debug/netcoreapp3.1/ContaBancaria.runtimeconfig.dev.json
+/Users/osf/Projects/ContaBancaria/ContaBancaria/bin/Debug/netcoreapp3.1/ContaBancaria.dll
+/Users/osf/Projects/ContaBancaria/ContaBancaria/bin/Debug/netcoreapp3.1/ContaBancaria.pdb
+/Users/osf/Projects/ContaBancaria/ContaBancaria/obj/Debug/netcoreapp3.1/ContaBancaria.dll
+/Users/osf/Projects/ContaBancaria/ContaBancaria/obj/Debug/netcoreapp3.1/ContaBancaria.pdb
